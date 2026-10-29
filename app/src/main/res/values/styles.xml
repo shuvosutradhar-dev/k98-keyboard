@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.K98Keyboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/k98_accent_orange</item>
+        <item name="android:statusBarColor">@color/k98_dark_bg</item>
+    </style>
+
+    <style name="K98KeyStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">46dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">@drawable/key_bg_normal</item>
+        <item name="android:textColor">@color/k98_text_white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">0dp</item>
+    </style>
+</resources>

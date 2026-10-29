@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="k98_dark_bg">#18191C</color>
+    <color name="k98_key_bg">#2B2D31</color>
+    <color name="k98_key_pressed">#404249</color>
+    <color name="k98_special_key">#35373C</color>
+    <color name="k98_accent_orange">#FF7043</color>
+    <color name="k98_accent_blue">#00D2FF</color>
+    <color name="k98_text_white">#F2F3F5</color>
+    <color name="k98_text_secondary">#949BA4</color>
+</resources>

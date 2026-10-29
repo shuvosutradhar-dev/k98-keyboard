@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="6dp" />
+            <solid android:color="@color/k98_key_pressed" />
+            <stroke android:width="1.5dp" android:color="@color/k98_accent_orange" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="6dp" />
+            <solid android:color="@color/k98_special_key" />
+            <stroke android:width="1dp" android:color="#4A4D55" />
+        </shape>
+    </item>
+</selector>
